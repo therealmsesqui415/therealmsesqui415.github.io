@@ -1,0 +1,21 @@
+# Site settings
+title: A journey in Coding.
+header-img: img/home-bg.png
+email: therealmsesqui@gmail.com
+copyright_name: therealmsesqui415
+description: > # this means to ignore newlines until "baseurl:"
+  The struggles and successes of a newbie.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  therealmsesqui415
+learn_profile: therealmsesqui415
+email_username: therealmsesqui@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
