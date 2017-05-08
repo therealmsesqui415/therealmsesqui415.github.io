@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bootstrap Codealong"
-date:   2017-05-08 01:57:01 +0000
+date:   2017-05-07 21:57:02 -0400
 ---
 
 
