@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Why did you want to learn software development?"
-date:   2017-03-29 10:31:44 +0000
+title:      "Why did you want to learn software development?"
+date:       2017-03-29 06:31:45 -0400
+permalink:  why_did_you_want_to_learn_software_development
 ---
 
 ![](https://s-media-cache-ak0.pinimg.com/originals/a6/1c/8c/a61c8c5eaf69084f27ac095ce48182f6.jpg)
 
-All jokes aside, the real reason behind my eagerness to begin learning to code, stemmed from various aspects of my life. Before I began learning through Flatiron, I hadn't really had any general direction. I was taking advantage of some free resources such as treehouse and sololearn, just to get a general feeling for what it would be like. Coding to be more specifc, felt like a very large concept at the time for me to grasp, not to mention I was working consistenty throughout the day at my current job, bartending, so I didn't make time to learn it. 
+The reason behind my eagerness to begin learning to code, stemmed from various aspects of my life. Before I began learning through Flatiron, I hadn't really had any general direction. I was taking advantage of some free resources such as treehouse and sololearn, just to get a general feeling for what it would be like. Coding to be more specifc, felt like a very large concept at the time for me to grasp, not to mention I was working consistenty throughout the day at my current job, bartending, so I didn't make time to learn it. 
 
 I've been living in Vegas for 2 years now, when I first moved here, I wasn't really thinking a lot about long term goals. I was more concerned with establishing myself and getting myself on my feet. Fresh from moving from San Francisco, when you move to a new state, all by yourself it makes it very difficult to balance your life. Keeping up with bills, worrying about this and that. A lot of frustrations.
 
